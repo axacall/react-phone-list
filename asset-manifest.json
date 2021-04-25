@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-phone-list/static/css/main.45637a48.chunk.css",
+    "main.js": "/react-phone-list/static/js/main.3ee513a7.chunk.js",
+    "main.js.map": "/react-phone-list/static/js/main.3ee513a7.chunk.js.map",
+    "runtime-main.js": "/react-phone-list/static/js/runtime-main.89c4e80f.js",
+    "runtime-main.js.map": "/react-phone-list/static/js/runtime-main.89c4e80f.js.map",
+    "static/js/2.4930eb55.chunk.js": "/react-phone-list/static/js/2.4930eb55.chunk.js",
+    "static/js/2.4930eb55.chunk.js.map": "/react-phone-list/static/js/2.4930eb55.chunk.js.map",
+    "index.html": "/react-phone-list/index.html",
+    "static/css/main.45637a48.chunk.css.map": "/react-phone-list/static/css/main.45637a48.chunk.css.map",
+    "static/js/2.4930eb55.chunk.js.LICENSE.txt": "/react-phone-list/static/js/2.4930eb55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89c4e80f.js",
+    "static/js/2.4930eb55.chunk.js",
+    "static/css/main.45637a48.chunk.css",
+    "static/js/main.3ee513a7.chunk.js"
+  ]
+}
